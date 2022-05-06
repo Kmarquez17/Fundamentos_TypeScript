@@ -1,3 +1,4 @@
+//@ts-check
 (async ()=> {
     const myCart = [];
     const products = [];
